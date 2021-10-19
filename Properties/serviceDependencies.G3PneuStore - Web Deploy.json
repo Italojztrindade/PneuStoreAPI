@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/G03ApiPneuStore/apis/G03PneuStore",
+      "type": "apis.azure"
+    },
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/apipneustoreg03dbserver/databases/G03ApiPneuStore_db",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:Context",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

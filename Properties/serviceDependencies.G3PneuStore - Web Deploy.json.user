@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-10-19T01:31:55.4982843Z"
+    },
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2021-10-19T01:27:29.7232155Z"
+    }
+  },
+  "parameters": {
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "PneuStoreAPI20211017181811ResourceGroup"
+    },
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "35170f32-ba99-4ea0-b1de-42de8af37378"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "35170f32-ba99-4ea0-b1de-42de8af37378"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "PneuStoreAPI20211017181811ResourceGroup"
+    }
+  }
+}

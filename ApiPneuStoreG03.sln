@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPneuStoreG03", "ApiPneuStoreG03.csproj", "{ED25220A-1873-415F-8701-FE40C25B4E69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED25220A-1873-415F-8701-FE40C25B4E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED25220A-1873-415F-8701-FE40C25B4E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED25220A-1873-415F-8701-FE40C25B4E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED25220A-1873-415F-8701-FE40C25B4E69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FE9DDBE-3710-4884-BB96-500CB52BBDCC}
+	EndGlobalSection
+EndGlobal
