@@ -17,6 +17,6 @@ namespace ApiPneuStoreG03.API
  
  
         public T Results { get; set; }
- 
+  
     }
 }

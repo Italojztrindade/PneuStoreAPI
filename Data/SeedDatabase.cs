@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace ApiPneuStoreG03.Data
 {
     public class SeedDatabase
-
+        //teste
     {
         public static void Initialize(IServiceProvider serviceProvider)
 
